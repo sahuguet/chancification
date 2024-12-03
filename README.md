@@ -45,7 +45,7 @@ Here is a test set from Excel
 ```
 
 
-### Python implemnentation
+### Python implementation
 Here is a list of Python-based implementations:
 * https://github.com/chrphb/hdr-random
 
@@ -68,7 +68,7 @@ for i in range(1,11):
 10,0.5216356363380328
 ```
 
-Python provides full precision numbers.
+Python provides full precision numbers. Excel is limited to 15 digits.
 
 ### SQL implementation
 
